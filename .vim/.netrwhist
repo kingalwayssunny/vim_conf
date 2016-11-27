@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/WangZY/tmp/check_tmp'
+let g:netrw_dirhist_2='/Users/WangZY/code/kscdn-live/kscdn-live-tengine/modules/nginx-rtmp-module/test/rtmp-publisher'
+let g:netrw_dirhist_3='/Users/WangZY/tmp/sample_hls'
